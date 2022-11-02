@@ -30,5 +30,5 @@ THEN I exit the application, and the HTML is generated
 
 ## Walkthrough Video
 ```md
-[Click here](https://drive.google.com/file/d/17jGS4BpNdtQS8U1aAU_ntiRagK5BiByO/view)
+(https://drive.google.com/file/d/17jGS4BpNdtQS8U1aAU_ntiRagK5BiByO/view)
 ```
