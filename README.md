@@ -28,4 +28,5 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ## Walkthrough Video
-[Click here](https://drive.google.com/file/d/17jGS4BpNdtQS8U1aAU_ntiRagK5BiByO/view?usp=sharing)
+```md
+[Click here](https://drive.google.com/file/d/17jGS4BpNdtQS8U1aAU_ntiRagK5BiByO/view?usp=sharing).
